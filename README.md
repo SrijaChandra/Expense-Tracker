@@ -20,5 +20,6 @@ A simple yet effective expense tracking web app built with **HTML**, **CSS**, an
 3️⃣ The list updates with your transaction and recalculates your balance automatically.  
 4️⃣ Delete transactions any time by clicking the ✖ icon.
 
+![image](https://github.com/user-attachments/assets/de8b58f6-7f70-4516-b803-ed318d40e0b8)
 
 
